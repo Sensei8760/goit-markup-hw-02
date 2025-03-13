@@ -23,6 +23,7 @@ a {
 .logo-studio {
   color: #2e2f42;
 }
+
 .header-navigation-link {
   color: #2e2f42;
 }
@@ -42,6 +43,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 .navigation-address {
   color: #434455;
@@ -103,7 +105,7 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 .team-name {
@@ -113,7 +115,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 .team-text {
   font-size: 16px;
@@ -127,6 +128,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-subtitle {
   font-weight: 500;
